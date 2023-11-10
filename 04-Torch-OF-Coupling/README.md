@@ -1,0 +1,2 @@
+# Libtorch compilation flags
+The entries to link `libtorch` in the `Make/options` files were obtained using CMake in the previous exercises. The `VERBOSE=1` flag was given to the `make` command to display the compilation commands to the standard output of the shell. Thereby, all include and linker commands can be copied.
