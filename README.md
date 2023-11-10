@@ -6,6 +6,7 @@ This repository contains the files for the STFS-ITV training in the scope of the
 
 - STFS
     - Federica Ferraro
+    - T. Jeremy P. Karpowski
     - Julian Bissantz
     - Driss Kaddar
 - ITV
